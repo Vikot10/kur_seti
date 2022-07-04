@@ -1,0 +1,68 @@
+D:\C#\kur seti serv\bin\Debug\kur seti serv.exe.config
+D:\C#\kur seti serv\bin\Debug\kur seti serv.exe
+D:\C#\kur seti serv\bin\Debug\kur seti serv.pdb
+D:\C#\kur seti serv\obj\Debug\kur seti serv.csproj.AssemblyReference.cache
+D:\C#\kur seti serv\obj\Debug\kur seti serv.csproj.SuggestedBindingRedirects.cache
+D:\C#\kur seti serv\obj\Debug\kur_seti_serv.Properties.Resources.resources
+D:\C#\kur seti serv\obj\Debug\kur seti serv.csproj.GenerateResource.cache
+D:\C#\kur seti serv\obj\Debug\kur seti serv.csproj.CoreCompileInputs.cache
+D:\C#\kur seti serv\obj\Debug\kur seti serv.exe
+D:\C#\kur seti serv\obj\Debug\kur seti serv.pdb
+D:\C#\kur seti serv\obj\Debug\kur_seti_serv.Form1.resources
+D:\C#\kur seti serv\bin\Debug\Microsoft.Win32.Registry.dll
+D:\C#\kur seti serv\bin\Debug\NAudio.Asio.dll
+D:\C#\kur seti serv\bin\Debug\NAudio.Core.dll
+D:\C#\kur seti serv\bin\Debug\NAudio.dll
+D:\C#\kur seti serv\bin\Debug\NAudio.Midi.dll
+D:\C#\kur seti serv\bin\Debug\NAudio.Wasapi.dll
+D:\C#\kur seti serv\bin\Debug\NAudio.WinForms.dll
+D:\C#\kur seti serv\bin\Debug\NAudio.WinMM.dll
+D:\C#\kur seti serv\bin\Debug\System.Security.AccessControl.dll
+D:\C#\kur seti serv\bin\Debug\System.Security.Principal.Windows.dll
+D:\C#\kur seti serv\bin\Debug\Microsoft.Win32.Registry.xml
+D:\C#\kur seti serv\bin\Debug\NAudio.xml
+D:\C#\kur seti serv\bin\Debug\System.Security.AccessControl.xml
+D:\C#\kur seti serv\bin\Debug\System.Security.Principal.Windows.xml
+D:\C#\kur seti serv\obj\Debug\kur seti serv.csproj.CopyComplete
+D:\C#\kur seti serv\bin\Debug\EntityFramework.dll
+D:\C#\kur seti serv\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\kur seti serv\bin\Debug\System.Data.SQLite.dll
+D:\C#\kur seti serv\bin\Debug\System.Data.SQLite.EF6.dll
+D:\C#\kur seti serv\bin\Debug\System.Data.SQLite.Linq.dll
+D:\C#\kur seti serv\bin\Debug\EntityFramework.xml
+D:\C#\kur seti serv\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\kur seti serv\bin\Debug\System.Data.SQLite.xml
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\kur seti serv.exe.config
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\kur seti serv.exe
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\kur seti serv.pdb
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\EntityFramework.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\NAudio.Asio.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\NAudio.Core.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\NAudio.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\NAudio.Midi.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\NAudio.Wasapi.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\NAudio.WinForms.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\NAudio.WinMM.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\System.Data.SQLite.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\System.Security.AccessControl.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\EntityFramework.xml
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\NAudio.xml
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\System.Data.SQLite.xml
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\System.Security.AccessControl.xml
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\obj\Debug\kur seti serv.csproj.AssemblyReference.cache
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\obj\Debug\kur seti serv.csproj.SuggestedBindingRedirects.cache
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\obj\Debug\kur_seti_serv.Form1.resources
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\obj\Debug\kur_seti_serv.Properties.Resources.resources
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\obj\Debug\kur seti serv.csproj.GenerateResource.cache
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\obj\Debug\kur seti serv.csproj.CoreCompileInputs.cache
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\obj\Debug\kur seti serv.csproj.CopyComplete
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\obj\Debug\kur seti serv.exe
+C:\Users\vasil\OneDrive\Рабочий стол\kur seti serv\kur seti serv\obj\Debug\kur seti serv.pdb

@@ -1,0 +1,34 @@
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\kur seti serv.exe.config
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\kur seti serv.exe
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\kur seti serv.pdb
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\EntityFramework.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\NAudio.Asio.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\NAudio.Core.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\NAudio.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\NAudio.Midi.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\NAudio.Wasapi.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\NAudio.WinForms.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\NAudio.WinMM.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\System.Data.SQLite.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\System.Security.AccessControl.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\EntityFramework.xml
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\NAudio.xml
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\System.Data.SQLite.xml
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\System.Security.AccessControl.xml
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\obj\Release\kur seti serv.csproj.AssemblyReference.cache
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\obj\Release\kur seti serv.csproj.SuggestedBindingRedirects.cache
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\obj\Release\kur_seti_serv.Form1.resources
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\obj\Release\kur_seti_serv.Properties.Resources.resources
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\obj\Release\kur seti serv.csproj.GenerateResource.cache
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\obj\Release\kur seti serv.csproj.CoreCompileInputs.cache
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\obj\Release\kur seti serv.csproj.CopyComplete
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\obj\Release\kur seti serv.exe
+C:\Users\vasil\OneDrive\Рабочий стол\4 семестр\kur seti serv\kur seti serv\obj\Release\kur seti serv.pdb
